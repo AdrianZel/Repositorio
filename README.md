@@ -1,4 +1,4 @@
 # Repositorio
 Testeando
 
-Explicacion del proyexto
+Explicacion del proyexto detallada
